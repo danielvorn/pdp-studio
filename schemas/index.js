@@ -5,5 +5,6 @@ import author from './author'
 import article from './article'
 import press from './press'
 import project from './project'
+import youtube from './youtube'
 
-export const schemaTypes = [post, author, category, blockContent, article, press, project]
+export const schemaTypes = [post, author, category, blockContent, article, press, project, youtube]
